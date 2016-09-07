@@ -1,8 +1,10 @@
 # DepthPerceptionSimulator
 reference https://inst.eecs.berkeley.edu/~cs61c/fa14/projs/01/
-Usage:
-$ make
-$ ./depth_map
+<br>
+Usage: <br>
+$ make <br>
+$ ./depth_map <br>
+<br>
 <p>
 USAGE: ./depth_map [options] <br>
 
